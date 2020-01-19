@@ -14,6 +14,28 @@ As long your syntax is valid the documents will work in a browser. That said the
 
 **Don't** worry about what the documents look like in the browser. _This is a common beginner mistake_. The default styles in the browser are only default choices provided when no other stylesheet has been included. 
 
+Use these tags: 
+
+- Sectional tags
+    - Header `<header>`
+    - Section `<section>`
+    - Article `<article>`
+    - Footer `<footer>`
+- Headings h1-6 `<h1>`
+- Paragraphs `<p>`
+- small `<small>`
+- BlockQuote `<blockquote>`
+- pre `<pre>`
+- code `<code>`
+- Inline tags
+    - strong `<strong>`
+    - emphasis `<em>`
+    - abbreviation `<abbr>`
+    - anchor `<a>`
+    - time `<time>`
+    - Superscript `<sup>`
+    - quote `<q>`
+
 ## Getting started!
 
 **tl;dr** fork this repo and start add HTML tags to each of the documents. 
