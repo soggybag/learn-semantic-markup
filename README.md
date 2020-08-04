@@ -4,13 +4,13 @@ Learn Semantic HTML by marking up these documents.
 
 ## What is this? 
 
-This is a directory of text documents that you can mark up for practice learning HTML. The documents contain the typical types of things you might see in web sites on your phone and desktop. Only the text is included here! Your practice is to add the HTML tags.
+This is a directory of text documents that you can mark up for practice to learn HTML. The documents contain the typical content you might see in web sites on your phone and desktop. Only the text is included here! Your job is to add the markup!
 
-As long as your syntax is valid the documents will work in a browser. That said there are some answers that are more right than others and other answers that confuse or muddle what the document is trying to express. If the markup you add is adding clarity to the content you're doing well!
+Besides writing syntactically correct HTML code your goal is to use HTML markup to enhance the meaning and preserve the context of the information. The markup should add clarity. 
 
 **Your goal** is to mark up the document with the tags that best describe the content text. You want the tags to best express the message and intent of the content of each document.
 
-**Don't** worry about what the documents look like in the browser. _This is a common beginner mistake_. The default styles in the browser are only default choices provided when no other stylesheet has been included. 
+**Don't** worry about what the documents look like in the browser. _This is a common beginner mistake_. The default styles in the browser are only default choices provided when no other stylesheet has been included.
 
 Use these tags: 
 
@@ -40,7 +40,21 @@ Use these tags:
 
 This repo contains a list of challenges and solutions. Each of the solution files is marked. 
 
-The challenge file contains only text, no markup, you will add markup. 
+The challenge file contains only text, no markup, you will add markup (tags). 
+
+Before you start read the comments in each file. Also read the text itself. The markup you add should add context and reinforce the meaning and intent. 
+
+### Check your work
+
+You can check your work in a few ways: 
+
+Use the Validator to check your syntax. The HTML validator checks the syntax of your HTML. 
+
+https://validator.w3.org
+
+Check your work in the validator. 
+
+Check your work against the solutions. What you have doesn't have to be the same as the solution!
 
 ### Feel free to contribute
 
