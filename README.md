@@ -44,6 +44,30 @@ The challenge file contains only text, no markup, you will add markup (tags).
 
 Before you start read the comments in each file. Also read the text itself. The markup you add should add context and reinforce the meaning and intent. 
 
+### How to Download This Code
+
+If you're having trouble downloading this repo, here are the steps:
+
+1. Open a Terminal window and navigate to the folder where you'd like to place this repository. (It's probably called something like: `dev/courses/web1.0`)
+
+2. Type in the following code:
+
+```
+$ git clone git@github.com:soggybag/learn-semantic-markup.git
+```
+
+3. Go to GitHub.com and create a new repository. _(NOTE: Make sure that the checkbox for "Initialize this repository with a README" is NOT checked.)_
+
+4. Type in the following to update your repository's destination:
+
+```
+$ git remote set-url origin git@github.com:YOUR_USERNAME/YOUR_REPO_NAME.git
+$ git push -u origin master
+```
+
+5. Refresh the page in your newly-created GitHub repo to make sure your changes were successfully pushed.
+
+
 ### Check your work
 
 You can check your work in a few ways: 
